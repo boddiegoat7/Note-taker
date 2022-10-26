@@ -1,17 +1,15 @@
+const fs = require("fs");
 const express = require("express");
-
-const PORT = process.env.PORT || 3001;
 const app = express();
-const apiRoutes = require("./routes/apiRoutes");
-const htmlRoutes = require("./routes/htmlRoutes");
+const PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
-require("./routes/htmlRoutes")(app);
-require("./routes/apiRoutes")(app);
+require("./routes/api/apiroutes")(app);
+require("./routes/api/htmlRoutes")(app);
 
 app.listen(PORT, () => {
-    console.log(`API server on port http://localhost:${PORT}`);
+  console.log(`API server on port http://localhost:${PORT}`);
 });
