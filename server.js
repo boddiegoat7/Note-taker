@@ -7,8 +7,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
-require("./routes/api/apiroutes")(app);
-require("./routes/api/htmlRoutes")(app);
+require("./routes/apiroutes")(app);
+require("./routes/htmlRoutes")(app);
 
 app.listen(PORT, () => {
   console.log(`API server on port http://localhost:${PORT}`);
