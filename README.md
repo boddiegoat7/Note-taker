@@ -76,8 +76,8 @@ or
         
 ## VIDEO
 
-insomina usage video:
+Insomina usage video:
 
-herkou deployment video:
+Herkou deployment video:
 
 
