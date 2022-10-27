@@ -1,7 +1,5 @@
 # Note-taker
-# Team-Profile-Generator
 
-    
 
 ## TABLE OF CONTENTS
   - [DESCRIPTION](#description)
