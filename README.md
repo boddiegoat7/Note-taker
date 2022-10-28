@@ -58,7 +58,7 @@
 
     https://github.com/boddiegoat7/Note-taker
 
-    and opening in vs code. Use the "npm start" the sever and to be able to get routes(insomnia).
+    and opening in vs code. Use the "node server" to startthe server and to be able to get routes using insomnia.
 
 -Also clicking the link below will alow u to vist the heroku ink for the project:
 
