@@ -49,9 +49,9 @@
 
 - Brock my tutor from wyant
 
-- [Learn Express JS In 35 Minutes] (https://www.youtube.com/watch?v=SccSCuHhOw0)
+- [Learn Express JS In 35 Minutes](https://www.youtube.com/watch?v=SccSCuHhOw0)
 
-- [2022 NOTE TAKER APP EXPRESS.js DEMO] (https://www.youtube.com/watch?v=BSVWmsGU4Dc)
+- [2022 NOTE TAKER APP EXPRESS.js DEMO](https://www.youtube.com/watch?v=BSVWmsGU4Dc)
 
 ## TEST
       
