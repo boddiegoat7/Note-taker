@@ -40,6 +40,7 @@
 
 
 ## License
+
 - The project has None license. The link for this can be found here: [None]
 
 ## CONTRIBUTE
@@ -48,9 +49,9 @@
 
 - Brock my tutor from wyant
 
-- Learn Express JS In 35 Minutes  https://www.youtube.com/watch?v=SccSCuHhOw0
+- [Learn Express JS In 35 Minutes] (https://www.youtube.com/watch?v=SccSCuHhOw0)
 
-- 2022 NOTE TAKER APP EXPRESS.js DEMO https://www.youtube.com/watch?v=BSVWmsGU4Dc
+- [2022 NOTE TAKER APP EXPRESS.js DEMO] (https://www.youtube.com/watch?v=BSVWmsGU4Dc)
 
 ## TEST
       
@@ -58,9 +59,15 @@
 
     https://github.com/boddiegoat7/Note-taker
 
-    and opening in vs code. Use the "node server" to startthe server and to be able to get routes using insomnia.
+    and opening in vs code. 
+ 
+ - Open the terminal and use "npm i" to install tha packages. 
+      - npm i express
+      - npm install uuid
+    
+ - Use the "node server" to start the server and to be able to get routes using insomnia.
 
--Also clicking the link below will alow u to vist the heroku ink for the project:
+ - Also clicking the link below will alow u to vist the heroku ink for the project:
 
     https://stark-escarpment-81314.herokuapp.com/
 
