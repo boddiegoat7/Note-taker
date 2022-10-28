@@ -63,7 +63,7 @@
  
  - Open the terminal and use "npm i" to install tha packages. 
       - npm i express
-      - npm install uuid
+      - [npm install uuid](https://www.npmjs.com/package/uuid)
     
  - Use the "node server" to start the server and to be able to get routes using insomnia.
 
