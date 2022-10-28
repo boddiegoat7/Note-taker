@@ -56,13 +56,13 @@
       
 - To run the project just CLONE the code from the following github link:
 
- https://github.com/boddiegoat7/Note-taker
+    https://github.com/boddiegoat7/Note-taker
 
-  and opening in vs code. Use the "npm start" the sever and to be able to get routes(insomnia).
+    and opening in vs code. Use the "npm start" the sever and to be able to get routes(insomnia).
 
-Also clicking the link below will alow u to vist the heroku ink for the project:
+-Also clicking the link below will alow u to vist the heroku ink for the project:
 
-https://stark-escarpment-81314.herokuapp.com/
+    https://stark-escarpment-81314.herokuapp.com/
 
 ## QUESTIONS
 
@@ -77,6 +77,8 @@ or
 ## VIDEO
 
 Insomina usage video:
+
+
 
 Herkou deployment video:
 
