@@ -78,8 +78,12 @@ or
 
 Insomina usage video:
 
+[Insomnia.webm](https://user-images.githubusercontent.com/107088058/198421814-27929a32-635c-44c8-ab3c-7674edd7c0de.webm)
+
 
 
 Herkou deployment video:
+
+[heroku.webm](https://user-images.githubusercontent.com/107088058/198422355-334e0377-cd25-429f-8c14-79d6129cc854.webm)
 
 
